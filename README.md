@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @Ghostly0328
+- 👋 Hi, I’m Ghostly0328
+- 📫 My email is sj985811@gmail.com
 - 👀 I’m interested in GameDev
 - 🌱 I’m currently learning Unity and Python
-- 📫 My email is sj985811@gmail.com
+- :joystick: I made a game for android platform, it called 'Jumcats'.
